@@ -92,7 +92,7 @@ class MatrixMultiplication {
     public static void main(String[] args) {
         int rows = 90;
         int cols = 90;
-        int numTasks = 45;
+        int numTasks = 35;
 
         int[][] A = initializeMatrix(rows, cols);
         int[][] B = initializeMatrix(cols, rows);
